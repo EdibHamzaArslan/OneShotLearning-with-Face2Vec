@@ -2,6 +2,10 @@
 
 # OneShotLearning-with-Face2Vec
 
+
+![Screenshot from 2021-06-19 22-57-18](https://user-images.githubusercontent.com/35764362/122654115-c43fbe00-d151-11eb-9cde-3d40fd2ad50d.png)
+
+
 After training the model with CASIA-WebFace data, I used the model for different areas. For example, the following video is recognize me from one photo and this photo is 
 
 <img src="https://user-images.githubusercontent.com/35764362/122378994-1f658b00-cf6f-11eb-9463-f13a249154e5.jpg" width="200" height="200">
